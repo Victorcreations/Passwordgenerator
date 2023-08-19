@@ -5,12 +5,14 @@ with combined __CHARACTERS__ including **ALPHABETS**,**NUMBERS** **&** **SYMBOLS
 
 ## Table of Contents
 
--[Installation]
--[Usage]
--[Features]
+- [Installation]
+- [Usage]
+- [Features]
 
 ## Installation
 
 To use the tool more efficiently install the requirement's from the provided requirements.txt
 
-> pip install -r requirements.txt
+```bash
+ pip install -r requirements.txt
+```
