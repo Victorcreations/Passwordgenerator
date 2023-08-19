@@ -46,7 +46,7 @@ def main():
             password += gen_locase
 
         generated_password = string_utils.shuffle(password)
-        print("YOUR PASSWORD IS -->" + Fore.RED + generated_password) 
+        print("YOUR PASSWORD IS --> " + Fore.RED + generated_password) 
         
 
     create()
