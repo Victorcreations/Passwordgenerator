@@ -69,8 +69,8 @@ python Password.py
 
 Once done you may see a output like this
 
-![password.py ](../../../Pictures/Screenshots/Screenshot%20from%202023-08-19%2022-40-13.png)
+![password.py ](https://github.com/Victorcreations/Passwordgenerator/blob/main/images/Screenshot%20from%202023-08-19%2022-40-13.png)
 
-![output1 ](../../../Pictures/Screenshots/Screenshot%20from%202023-08-19%2022-46-54.png)
+![output1 ](https://github.com/Victorcreations/Passwordgenerator/blob/main/images/Screenshot%20from%202023-08-19%2022-46-54.png)
 
-![output1 ](../../../Pictures/Screenshots/Screenshot%20from%202023-08-19%2022-47-23.png)
+![output1 ](https://github.com/Victorcreations/Passwordgenerator/blob/main/images/Screenshot%20from%202023-08-19%2022-47-23.png)
