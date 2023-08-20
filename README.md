@@ -64,7 +64,7 @@ This tool gives you the ability to make your own and strong password with your d
 To use the tool run the program file using python
 
 ```bash
-python Password.py
+python password.py
 ```
 
 Once done you may see a output like this
